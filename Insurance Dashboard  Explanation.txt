@@ -1,0 +1,46 @@
+Good [morning/afternoon],
+I’ll walk you through our Insurance Analytics Dashboard, which provides an integrated view of our sales performance
+and account activities.
+This dashboard helps us monitor individual and team performance, track key growth opportunities,
+ and optimize our engagement strategy across new, renewal, and cross-sell business lines.
+
+1. Income Class Distribution
+- Trend: Renewals dominate the income class, indicating strong customer retention.
+- Insight: The lower count of new policies suggests a need for better outreach and acquisition strategies.
+- Recommendation: Focus on marketing efforts to attract new customers while maintaining renewal efficiency.
+
+2. Meeting Date Trends
+- Trend: A significant increase in meetings from 2019 to 2020.
+- Insight: This could indicate a shift in strategy, possibly due to market changes or increased customer engagement.
+- Recommendation: Analyze meeting effectiveness—are they leading to conversions?
+
+3. Cross-Sell Performance
+- Trend: Achievement is below target.
+- Insight: Customers may not be fully aware of additional insurance products.
+- Recommendation: Implement targeted cross-sell campaigns and personalized recommendations.
+
+4. New Business Performance
+- Trend: Achievement is significantly below target.
+- Insight: New customer acquisition is struggling.
+- Recommendation: Strengthen lead generation, improve digital marketing, and enhance referral programs.
+
+5. Renewal Performance
+- Trend: Exceeds target.
+- Insight: Strong customer loyalty and effective renewal strategies.
+- Recommendation: Maintain renewal efforts while shifting focus to new business growth.
+
+6. Opportunity Product Distribution
+- Trend: Employee Benefits and Fire insurance are the most popular.
+- Insight: Liability and Marine policies have moderate traction, while Miscellaneous and Terrorism policies have minimal interest.
+- Recommendation: Consider expanding marketing efforts for underperforming products.
+
+7. Meeting Count by Executive
+- Trend: Some executives conduct significantly more meetings.
+- Insight: High meeting counts may correlate with better performance.
+- Recommendation: Identify best practices from top executives and train others accordingly.
+
+8. Brokerage & Fees Data
+- Trend: Revenue aligns with renewal trends.
+- Insight: Renewals contribute significantly to income.
+- Recommendation: Diversify revenue streams by improving cross-sell and new business efforts.
+
